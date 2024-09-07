@@ -1,22 +1,13 @@
-Resume
+👋 Hey there! I'm @Soundarya132
 
-A responsive resume template built with HTML and CSS.
+🔥 Passionate full-stack developer | learning new technologies | Innovation seeker
 
-Features
+🌱 Currently learning: JavaScript, React, Node.js, and Cloud Computing
 
-- Responsive design for optimal viewing on desktop and mobile devices
-- Clean and modern design, highlighting my skills and experience
-- Easy to customize and update
+💻 Building projects that make a difference | Collaborating with like-minded individuals
 
-Technologies Used
+📲 Let's connect: soundaryamurugan9786@email.com | LinkedIn | GitHub
 
-- HTML5
-- CSS3 (with Sass)
-- GitHub Pages for hosting
+😊 Pronouns: She/Her
 
-Files
-
-- index.html: The main HTML file
-- styles.css: The CSS stylesheet
-
-
+⚡ Fun fact: Bookworm | Language learner | Foodie | Travel enthusiast
