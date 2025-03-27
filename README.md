@@ -6,7 +6,7 @@
 
 💻 Building projects that make a difference | Collaborating with like-minded individuals
 
-📲 Let's connect: soundaryamurugan9786@email.com | LinkedIn | GitHub
+📲 Let's connect: soundaryamurugan9786@email.com | soundarya-m-071812324 | GitHub
 
 😊 Pronouns: She/Her
 
