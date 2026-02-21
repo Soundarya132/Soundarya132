@@ -74,7 +74,3 @@ Panimalar Engineering College (2023 – 2027)
 
 🏆 HackerRank:
 [https://hackerrank.com/profile/soundaryamuruga3](https://hackerrank.com/profile/soundaryamuruga3)
-
----
-
-✨ *Passionate about learning, building, and growing in the tech field!*
